@@ -1,0 +1,5 @@
+body {
+  background-color: #C1DCD4;
+}
+
+/*styling on output must allow for each box to change sizes to fit inside the canvas, which will have a set size around 90%vh and 50%vw*/
